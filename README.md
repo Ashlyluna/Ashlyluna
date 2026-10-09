@@ -34,7 +34,6 @@ Estoy comenzando mi camino en el mundo del aseguramiento de la calidad de softwa
 
 ## 🎯 Lo que estoy aprendiendo
 
-- Fundamentos de ISTQB (Foundation Level)
 - Testing de APIs con Postman
 - SQL básico para validar datos
 - Inglés técnico
@@ -43,4 +42,4 @@ Estoy comenzando mi camino en el mundo del aseguramiento de la calidad de softwa
 
 ## 📫 Contacto
 
-¡Estoy abierta/o a oportunidades de primera experiencia como QA Tester Junior! Escribime por LinkedIn o por mail.
+¡Estoy abierta/o a oportunidades de primera experiencia como QA Tester Junior! Escribime por LinkedIn, por mail o Te dejo mi contacto +5491170615554.
